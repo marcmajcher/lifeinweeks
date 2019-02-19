@@ -1,0 +1,9 @@
+born: 8/24/1970
+expect: 78.69
+last: 100
+---
+October 1, 2017 | First date with Nichole | relationship
+Feb 19, 2019 | Start work at RigUp | work
+12/14/2018 | Last day at Galvanize | work
+2/1/2016 | First day at Galvanize | work
+12/9/2006 | Paidia born | family
